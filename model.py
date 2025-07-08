@@ -32,7 +32,8 @@ class DenseNetFeatures(nn.Module):
         x = torch.flatten(x, 1)
         x = self.fc1(x)
         return x
-
+        
+# DenseNet Features Only
 class DenseNetFeaturesOnly(nn.Module):
     def __init__(self) -> None:
         super(DenseNetFeaturesOnly, self).__init__()
