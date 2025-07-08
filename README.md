@@ -136,4 +136,4 @@ Specify the mode using the `--mode` argument and provide a checkpoint file with 
 - Implement data augmentation in the transform pipeline for improved generalization.
 
 ## Contact
-- www.rishitpuri.com 
+- adityapadgal@gmail.com
